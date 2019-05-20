@@ -1,0 +1,2 @@
+# text
+Text Classification and Sentence Generator ----Validating and Tweaking RNN.  As our title, our project is divided into two parts.  The first part for our project is to compare recurrent neural network and other algorithms to classify the comments  whether it is a good comment or not to validate whether RNN is suitable for text area.  The second part is to use recurrent neural network make a sentence generator.  It will generate relevant comments based on the values entered.  This part is tweaking RNN and applying it in a novel way.
